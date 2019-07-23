@@ -1,6 +1,7 @@
+
 # custom_css_styles
 ## DESCRIPTION
-This repository is a place for people to share CSS code they have written for websites they use oftenly. This CSS may add dark mode, remove excess features or do other UX improvments.
+This repository is a place for people to share CSS code they have written for websites they use oftenly. This CSS may add dark mode, remove excess features or do other UX improvements.
 
 ## EXAMPLES
 ![Facebook](https://scontent.fiev13-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/67243782_483001412274109_5736729422891843584_n.png?_nc_cat=104&_nc_oc=AQmH76f_UyWVKX2sFuCZbPPJLduwd215lMPAUjR7hDNAQExzMNQloKlOFDPB8msMGX8&_nc_ht=scontent.fiev13-1.fna&oh=2ad1fda7902552daf8f04bd8dd85c125&oe=5DE0C3E5)
@@ -9,13 +10,13 @@ This repository is a place for people to share CSS code they have written for we
 
 
 ## HOW TO USE
-You need to install an extention for your browser that injects custom css into a web page. My choice is [Stylebot for Google Chrome][https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha].
-Just import css from this repository's files one by one or [import them all into Stylebot][http://freetexthost.com/xwhx6s3fgz]
+You need to install an extension for your browser that injects custom css into a web page. My choice is [Stylebot for Google Chrome](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha).
+Just import css from this repository's files one by one or [import them all into Stylebot](http://freetexthost.com/xwhx6s3fgz).
 
 
-### Other extentions for css injection
-* [Tampermonkey][https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
-* [Minimalist for Everything][https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek]
+### Other extensions for css injection
+* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+* [Minimalist for Everything](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
 
 
 ## CONTRIBUTION
@@ -23,7 +24,7 @@ Since sites change their DOM, some css files my stop working, which requires the
 
 
 ## RESOURCES
-* [Import css into Stylebot][http://freetexthost.com/xwhx6s3fgz]
+* [Import css into Stylebot](http://freetexthost.com/xwhx6s3fgz)
 
 
 ## TODO
@@ -33,4 +34,4 @@ Since sites change their DOM, some css files my stop working, which requires the
 
 
 ## CONTRIBUTORS
-* [maxxxxxdlp][https://github.com/maxxxxxdlp]
+* [maxxxxxdlp](https://github.com/maxxxxxdlp)
