@@ -1,0 +1,22 @@
+#page, .container {
+    position: static;
+}
+
+.post-single-content {
+    background: #222;
+    color: #bbb    ;
+    font-size: 20px ;
+    left: 0;
+    min-height: 100vh;
+    padding: 3vw;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 94vw;
+    z-index: 500;
+}
+
+div#header, #navigation, .adsbygoogle, .sidebar, .ya-share2, .ya-share2 *, .bottomad, .related-posts, #commentsAdd, footer {
+    display: none ;
+}
+

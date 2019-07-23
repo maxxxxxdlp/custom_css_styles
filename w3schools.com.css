@@ -1,0 +1,141 @@
+#container {
+    top: 39px;
+}
+
+#container, .w3-info, .topnav .w3-bar a.active, .w3-theme, .w3-table-all tr:nth-child(odd), #sidenav a.active, .w3-example, .topnav {
+    background-color: #333 ;
+    color: #aaa;
+}
+
+#divResultSQL, .w3-container .w3-row .w3-col.l10 > div {
+    background: #111 ;
+}
+
+#iframeResult, #iframeSource {
+    filter: invert();
+}
+
+#leftmenuinner {
+    background-color: #111;
+}
+
+#right, #tryitLeaderboard, #div-gpt-ad-1493883843099-0, #div-gpt-ad-1472547360578-0, footer, .w3-right a.w3-bar-item.w3-button.w3-hover-white.w3-padding-16.w3-right, .w3-row.w3-white.w3-padding.w3-hide-medium.w3-hide-small, #mainLeaderboard, .w3-container.top, a[href="/forum/default.asp"], a.topnav-icons.fa.w3-right.w3-bar-item.w3-button, #footer, .w3-col.l2.m12 .sidesection #skyscraper div div, div[id^="google_ads"] {
+    display: none ;
+}
+
+#tryitLeaderboard + .w3-container {
+    background: #000 ;
+    height: 100vh;
+    padding: 0;
+    width: 100vw;
+}
+
+* {
+    caret-color: #ccc ;
+}
+
+.CodeMirror-cursor, .nextprev a.w3-right {
+    border-color: #ccc;
+}
+
+.cm-s-default .cm-def {
+    color: #fff ;
+}
+
+.cm-s-default .cm-keyword, span[style="color:mediumblue"], .cm-s-default .cm-bracket, .cm-s-default .cm-string {
+    color: #56f ;
+}
+
+.cm-s-default .cm-m-javascript.cm-property {
+    color: #eee ;
+}
+
+.cm-s-default .cm-meta {
+    color: #aaa ;
+}
+
+.cm-s-default .cm-tag {
+    color: #fb6 ;
+}
+
+.cm-s-default .cm-variable {
+    color: #ccc;
+}
+
+.nextprev a.w3-right {
+    border-color: #4A5;
+}
+
+.nextprev a:link, .nextprev a:visited {
+    background-color: #111;
+    border-color: #fff;
+    color: #fff;
+}
+
+.trytopnav {
+    top: -1px;
+}
+
+.w3-code, .w3-info, .w3-note, .w3-warning {
+    border: none;
+}
+
+.w3-codespan {
+    background-color: #333;
+}
+
+.w3-container .w3-row .w3-col.l10 h3 {
+    display: none ;
+}
+
+.w3-container .w3-row .w3-col.l2.w3-padding * {
+    color: #ccc ;
+}
+
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.w3-margin-bottom {
+    margin-bottom: 0 ;
+}
+
+.w3-note {
+    background-color: #330;
+}
+
+.w3-row, .CodeMirror, #textareawrapper, .w3-main .w3-row.w3-margin-bottom, .w3-green, .w3-hover-green:hover, .w3-table-all tr:nth-child(even), .w3-table-all, table.browserref *, .w3-btn, .w3-btn:link, .w3-btn:visited, .w3-code, .w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover, .w3-sidebar,.w3-white, .w3-hover-white:hover {
+    background-color: #222 ;
+    color: #aaa ;
+}
+
+.w3-warning {
+    background-color: #301;
+}
+
+.w3-white, .w3-hover-white:hover {
+    background-color: #111 ;
+    color: #eee ;
+}
+
+div#textareaCode {
+    background: #333;
+}
+
+div.CodeMirror-cursors {
+    background-color: #ccc;
+}
+
+span[style="color:black"] {
+    color: #ccc ;
+}
+
+span[style="color:brown"], .cm-s-default .cm-attribute {
+    color: #f88 ;
+}
+
+span[style="color:red"] {
+    color: #fc7 ;
+}
+

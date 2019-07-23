@@ -1,0 +1,67 @@
+#article_shell {
+    display: contents  ;
+}
+
+#intro, .wh_block, .section_text, .steps_list_2 li, .altblock, .lone_p {
+    background-color: #333 ;
+    color: #ccc ;
+}
+
+.codebox, .steps ul {
+    background-color: #999 ;
+}
+
+.section .sticking {
+    left: 0 ;
+    position: static ;
+    top: 0 ;
+    width: 100%  ;
+    z-index: 3  ;
+}
+
+.section h2, .section h3 {
+    background-color: #555 ;
+    position: static  ;
+}
+
+.section.sticky {
+    padding-top: 0 ;
+}
+
+.steps_list_2 li li {
+    background-color: transparent  ;
+}
+
+.sticking .altblock {
+    border-radius: 0 ;
+    height: 50px ;
+    margin: 0 15px 0 0 ;
+    padding-top: 10px ;
+    width: 60px  ;
+}
+
+a {
+    color: #7a0 ;
+}
+
+a:hover {
+    color: #af0 ;
+}
+
+body, .section h3 {
+    background-color: #000 ;
+}
+
+div#sidebar, #gdpr, #header_outer, #header_space, #actionbar, .wh_ad_inner, .section.donate.sticky, #qa_box, .section.relatedwikihows.sticky, #article_info_section, #footer_outer, #sliderbox, #method_toc, .sp_expert_icon.sp_intro_expert, .qa_no_unpatrolled_questions ~ div, .qa_question_tab, .qa_user_area, .qa_answer_footer {
+    display: none ;
+}
+
+h1 a {
+    cursor: default ;
+    pointer-events: none ;
+}
+
+h1,h2,h3,h4,h5,h6, h1 a {
+    color: #fff ;
+}
+

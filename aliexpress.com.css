@@ -1,0 +1,32 @@
+#letyshops-notification {
+    height: 50px ;
+    width: 100px ;
+}
+
+#letyshops-notification .letyshops-notification-button-wrapper {
+    border: 0 ;
+    height: 50px ;
+    width: 100px ;
+}
+
+#letyshops-notification .letyshops-notification-button-wrapper .letyshops-notification-activate {
+    height: 50px ;
+    top: 0 ;
+    width: 100px ;
+}
+
+#letyshops-notification .letyshops-notification-button-wrapper .letyshops-notification-activate .letyshops-notification-shell-button {
+    height: 50px ;
+    width: 100px ;
+}
+
+#letyshops-notification .letyshops-notification-button-wrapper .letyshops-notification-activate .letyshops-notification-shell-button a button {
+    background: #222 ;
+    color: #222 ;
+    font-size: 0 ;
+}
+
+.letyshops-notification-header, .letyshops-notification-content, .letyshops-notification-info {
+    display: none;
+}
+

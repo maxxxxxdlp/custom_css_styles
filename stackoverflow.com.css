@@ -1,0 +1,60 @@
+#content {
+    width: 98vw;
+}
+
+#content, h1 a, .grippie {
+    background: #333;
+    color: #888 ;
+}
+
+#mainbar table, .mainbar table {
+    width: 60vw;
+}
+
+#question-header, .grippie, tr.comment>td, .comments, .subheader, .question-page #answers .answer, #wmd-preview {
+    border-color: #444;
+}
+
+#tabs a, .tabs a, .newnav .tabs-list-container .tabs-list .intellitab a, input[type="submit"]:hover, input[type="button"]:hover, button:hover, .button:hover, a.button:hover, a.button:visited:hover, .btn:hover, input[type="submit"]:focus, input[type="button"]:focus, button:focus, .button:focus, a.button:focus, a.button:visited:focus, .btn:focus, .btn {
+    border: none;
+    box-shadow: none;
+}
+
+#tabs a, .tabs a, .newnav .tabs-list-container .tabs-list .intellitab a, input[type="submit"]:hover, input[type="button"]:hover, button:hover, .button:hover, a.button:hover, a.button:visited:hover, .btn:hover, input[type="submit"]:focus, input[type="button"]:focus, button:focus, .button:focus, a.button:focus, a.button:visited:focus, .btn:focus, .btn, .owner, .post-tag, .geo-tag, .container .chosen-choices .search-choice, .container .chosen-container-multi .chosen-choices li.search-choice {
+    background: #444;
+}
+
+#tabs a.youarehere:before, .tabs a.youarehere:before, .newnav .tabs-list-container .tabs-list .intellitab a.youarehere:before {
+    background: #45c;
+}
+
+.container {
+    background: #333;
+}
+
+.container._full #content .inner-content {
+    width: 90vw;
+}
+
+.js-comment-actions {
+    width: 10vw;
+}
+
+.wmd-button-bar, .wmd-help-button.active-help, input[type="submit"]:hover, input[type="button"]:hover, button:hover, .button:hover, a.button:hover, a.button:visited:hover, .btn:hover, input[type="submit"]:focus, input[type="button"]:focus, button:focus, .button:focus, a.button:focus, a.button:visited:focus, .btn:focus, .btn {
+    background: #666;
+    border-color: #888;
+    box-shadow: none;
+}
+
+div#dfp-tlb, #sidebar, #footer, .bottom-notice, #feed-link, #dfp-mlb {
+    display: none;
+}
+
+header, .gravatar-wrapper-24, pre, .post-text p code, .wmd-preview code, #mdhelp-tabs, #wmd-input {
+    filter: invert();
+}
+
+tr.comment td:first-child {
+    display: none;
+}
+

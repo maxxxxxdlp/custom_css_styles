@@ -1,0 +1,41 @@
+#gt-res-wrap, .gt-is,.goog-menu {
+    background: #242424;
+}
+
+#gt-text-c, body, .jfk-button-checked, .jfk-button-clear-outline, #contribute-target, #source, #source-is {
+    background: #000 ;
+    color: #ccc ;
+}
+
+#source,#result_box,.gt-baf-word-clickable {
+    color: #a6a6a6;
+}
+
+* {
+    border-color: #555 ;
+    border-radius: 0 ;
+    transition: 0s ;
+}
+
+.gb_Fg, #gt-bbar-c, #gt-appbar, #select_document, #gt-promo-lr, #gt-input-tool, #gt-pb-star, #gt-ft-res {
+    display: none ;
+}
+
+.goog-flat-menu-button, .jfk-button-standard {
+    background: #111 ;
+    color: #eee ;
+}
+
+.gt-def-example.copy-button .jfk-button-img,.trans-listen-button .jfk-button-img,.share-button .jfk-button-img,.trans-edit-button .jfk-button-img,.clear-button .jfk-button-img,.ita-kd-img,.trans-roman-button .jfk-button-img,.copy-button .jfk-button-img,.speech-button .jfk-button-img, #gb#gb a.gb_Wb, .trans-swap-button .jfk-button-img {
+    -webkit-filter: invert(100%) ;
+}
+
+.gt-hl-layer {
+    border: none;
+}
+
+body {
+    min-height: 100vh ;
+    width: 100vw ;
+}
+

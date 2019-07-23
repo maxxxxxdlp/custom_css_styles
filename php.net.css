@@ -1,0 +1,29 @@
+#head-nav, #trick, #goto, #breadcrumbs, footer, #toTop, .layout-menu .parent-menu-list > li > a, .layout-menu ul.child-menu-list li a:before, .page-tools, .title:after, span.count, span.action, div.text[style^="opacity: 0."], .foot, .date, .genanchor, .name {
+    display: none ;
+}
+
+#layout-content {
+    border: none ;
+    filter: invert(100%);
+}
+
+#usernotes .note .votes {
+    float: right;
+}
+
+.layout-menu {
+    padding: 10px ;
+}
+
+.layout-menu ul.child-menu-list li a {
+    border: none ;
+}
+
+.layout-menu ul.child-menu-list li.current a {
+    color: #fff ;
+}
+
+body {
+    margin: 0 ;
+}
+

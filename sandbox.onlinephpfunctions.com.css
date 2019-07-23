@@ -1,0 +1,37 @@
+#wrapper_opf, #contentWrapperMiddle, #content form, #ajaxResult {
+    display: block ;
+}
+
+#wrapper_opf,body[onload], #contentWrapperMiddle, #content {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+
+.result {
+    background: none;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body > * , #wrapper_opf > *:not(#contentWrapperMiddle), #content > *:not(#ajaxResult):not(form), h3, br, b, tr:last-child {
+    display: none ;
+}
+
+body[onload] {
+    background: #000;
+    filter: invert();
+    overflow: hidden;
+}
+
+table,tr,th {
+    display: inline;
+}
+
+textarea {
+    height: 62vh;
+    width: 99.7vw;
+}
+

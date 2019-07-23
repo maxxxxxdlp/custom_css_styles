@@ -1,0 +1,77 @@
+#gameFrame, tr:nth-child(2) td:nth-child(2) {
+    display: block;
+}
+
+#stylebot-container {
+    filter: invert(100%) ;
+}
+
+#stylebot-container #stylebot-modal {
+    height: 100vh ;
+}
+
+#stylebot-page-editor-header, #stylebot-page-live-preview + button {
+    display: none ;
+}
+
+#wrap #options {
+    height: 99vh;
+    margin: 0;
+    padding: 10px;
+    position: initial;
+    width: 100vw;
+}
+
+#wrap #options > div:not(#basics) {
+    display: block ;
+    padding-bottom: 3vw;
+}
+
+#wrap #styles-container .option-section:nth-child(2) {
+    display: none;
+}
+
+#wrap #tabMenu, #wrap #basics, #wrap h3, #wrap h2, #wrap hr {
+    display: none ;
+}
+
+#wrap .option-section {
+    border: none;
+}
+
+::-webkit-scrollbar {
+    height: .5em;
+    width: .5em;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #000;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #454545;
+}
+
+body {
+    scrollbar-face-color: #444;
+    scrollbar-track-color: #444;
+}
+
+body,#gameFrame,#gameArea,#gameIFrame,#GameDiv,#Cocos2dGameContainer,#GameCanvas {
+    bottom: 0;
+    height: 100vh;
+    left: 0;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100vw;
+}
+
+header,footer, .page > div, #gameAxDivContainer, tr > td {
+    display: none ;
+}
+

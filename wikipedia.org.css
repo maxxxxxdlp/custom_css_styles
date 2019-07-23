@@ -1,0 +1,94 @@
+#mw-head-base {
+    height: initial;
+}
+
+#mw-navigation, .mw-body, .mw-body img, .suggestions {
+    filter: invert();
+}
+
+#p-logo a, #p-logo {
+    height: 3vw;
+    width: 3vw;
+}
+
+#right-navigation {
+    margin-top: 0;
+}
+
+#stylebot-container {
+    filter: invert(100%) ;
+}
+
+#stylebot-container #stylebot-modal {
+    height: 100vh ;
+}
+
+#stylebot-page-editor-header, #stylebot-page-live-preview + button {
+    display: none ;
+}
+
+#wrap #options {
+    height: 99vh;
+    margin: 0;
+    padding: 10px;
+    position: initial;
+    width: 100vw;
+}
+
+#wrap #options > div:not(#basics) {
+    display: block ;
+    padding-bottom: 3vw;
+}
+
+#wrap #styles-container .option-section:nth-child(2) {
+    display: none;
+}
+
+#wrap #tabMenu, #wrap #basics, #wrap h3, #wrap h2, #wrap hr {
+    display: none ;
+}
+
+#wrap .option-section {
+    border: none;
+}
+
+.interlanguage-link {
+    color: #ccc ;
+}
+
+.mw-body {
+    border: none;
+    margin-left: 4vw;
+}
+
+::-webkit-scrollbar {
+    height: .5em;
+    width: .5em;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #000;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #454545;
+}
+
+body {
+    scrollbar-face-color: #444;
+    scrollbar-track-color: #444;
+}
+
+body, #mw-page-base {
+    background: #000;
+}
+
+div#mw-panel {
+    width: 5vw;
+}
+
+div#p-personal, #left-navigation, #mw-panel div:not(:first-child):not(:last-child), #footer, #catlinks, .uls-settings-trigger, .after-portlet-lang, #p-views {
+    display: none;
+}
+

@@ -1,0 +1,11 @@
+* {
+    border-radius: 0 ;
+    box-shadow: none ;
+    text-shadow: none ;
+}
+
+html {
+    background: #000;
+    filter: invert(100%) ;
+}
+

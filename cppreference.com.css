@@ -1,0 +1,12 @@
+#content {
+    width: 90vw ;
+}
+
+#mw-head, #cpp-footer-base {
+    display: none;
+}
+
+body {
+    filter: invert();
+}
+

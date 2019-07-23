@@ -1,0 +1,36 @@
+#expanded, #guide-wrapper:hover ytd-guide-section-renderer.td-guide-renderer:nth-child(3), .videoAdUiPreSkipContainer {
+    display: block ;
+}
+
+#footer, h3.ytd-guide-section-renderer, h3.ytd-guide-subscriptions-section-renderer, #collapser-item, #expander-item, #search-icon-legacy, ytd-badge-supported-renderer, #buttons yt-icon:nth-child(2), ytd-popup-container ytd-menu-service-item-renderer:last-child, ytd-account-settings paper-item.ytd-account-settings:nth-child(3), #title-annotation.ytd-shelf-renderer, #sections .ytd-multi-page-menu-renderer:nth-child(2) ytd-compact-link-renderer:nth-child(3), ytd-guide-section-renderer:nth-child(1) #items > ytd-guide-entry-renderer:nth-child(1), ytd-guide-section-renderer:nth-child(1) #items > ytd-guide-entry-renderer:nth-child(2), ytd-guide-section-renderer:nth-child(1) #items > ytd-guide-collapsible-section-entry-renderer #header, ytd-guide-section-renderer:nth-child(1) #items > ytd-guide-collapsible-section-entry-renderer #section-items ytd-guide-entry-renderer:nth-child(4), ytd-guide-section-renderer:nth-child(1) #items > ytd-guide-collapsible-section-entry-renderer #section-items ytd-guide-collapsible-entry-renderer, ytd-guide-section-renderer:not(:first-child), ytd-guide-renderer > #footer, ytd-guide-entry-renderer[line-end-style='count'] .guide-entry-count.ytd-guide-entry-renderer #buttons.ytd-masthead > *.ytd-masthead:nth-child(2), #guide-renderer, .style-scope.ytd-masthead #container:last-child, #stylebot-page-editor-header, #stylebot-page-live-preview + button, #wrap #styles-container .option-section:nth-child(2), #wrap #tabMenu, #wrap #basics, #wrap h3, #wrap h2, #wrap hr, #related div#player-ads, ytd-watch-next-secondary-results-renderer #items div#head, #picker-buttons.yt-live-chat-message-input-renderer [disabled].yt-live-chat-message-input-renderer {
+    display: none ;
+}
+
+#guide:hover #guide-renderer, #masthead-container:hover #container {
+    display: flex ;
+}
+
+#left-arrow.yt-horizontal-list-renderer {
+    left: -40px ;
+}
+
+#masthead-container {
+    min-height: 56px ;
+}
+
+#right-arrow.yt-horizontal-list-renderer {
+    right: -36px ;
+}
+
+.arrow.yt-horizontal-list-renderer {
+    border-radius: 0 ;
+}
+
+ytd-guide-section-renderer.ytd-guide-renderer,#wrap .option-section, ytd-guide-collapsible-section-entry-renderer.ytd-guide-section-renderer:not(:first-child) {
+    border: none ;
+}
+
+ytd-thumbnail-overlay-toggle-button-renderer, ytd-thumbnail-overlay-time-status-renderer {
+    margin: 0 ;
+}
+

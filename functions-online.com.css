@@ -1,0 +1,47 @@
+#execute {
+    top: 0;
+}
+
+#execute input, #execute textarea, #result textarea {
+    background: #222;
+    border: none;
+    color: #ccc;
+    padding: 1vw;
+    width: 90vw;
+}
+
+#execute input[type="submit"]:hover {
+    background: #111;
+}
+
+#execute label, #result strong {
+    color: #ccc;
+}
+
+#result {
+    bottom: 0;
+}
+
+#result, #execute {
+    background: #333;
+    bottom: 0;
+    height: 50vh;
+    left: 0;
+    margin: 0;
+    padding: 1vh 1vw;
+    position: absolute;
+    right: 0;
+    width: 98vw;
+    z-index: 1000;
+}
+
+body {
+    height: 100vh;
+    overflow: hidden;
+    width: 100vw;
+}
+
+label[for="flags"], #flags, label[for="flags"] + br, #flags + br {
+    display: none;
+}
+

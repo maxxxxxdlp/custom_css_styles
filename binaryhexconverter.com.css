@@ -1,0 +1,48 @@
+/* ORIGINAL URL: binaryhexconverter.com/binary-to-ascii-text-converter*/
+
+#header, #footer, .social, p, span, h1, h2, h3, label, iframe, #loading, .addiv, ul, br {
+    display: none ;
+}
+
+input[type="button"][value="Convert"] {
+    background: #777 ;
+    border: 0;
+    border-radius: 0;
+    font-size: 0px;
+    height: 100vh;
+    left: calc(50vw - 30px);
+    margin: 0;
+    outline: none;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+    z-index: 1001;
+}
+
+input[type="button"][value="Convert"]:hover {
+    background: #ccc ;
+}
+
+textarea#resulttxt {
+    right: 0;
+}
+
+textarea#tabin {
+    left: 0;
+}
+
+textarea#tabin, textarea#resulttxt {
+    background: #000;
+    border: 1px solid #444;
+    border-radius: 0;
+    color: #ccc;
+    height: 100vh;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    width: 50vw;
+    z-index: 1000;
+}
+

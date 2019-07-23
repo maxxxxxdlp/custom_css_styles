@@ -1,0 +1,59 @@
+#actions .cbutton {
+    background-color: #000 ;
+    border: none ;
+    bottom: 0 ;
+    font-size: 0 ;
+    height: 50px ;
+    margin: 0 ;
+    overflow: hidden ;
+    padding: 0 ;
+    position: absolute ;
+    right: 0 ;
+    top: unset ;
+    width: 50px ;
+    z-index: 100001 ;
+}
+
+#content {
+    border: none ;
+    bottom: 0 ;
+    height: 100vh ;
+    left: 0 ;
+    margin: 0 ;
+    padding: 0 ;
+    position: absolute ;
+    right: 0 ;
+    top: 0 ;
+    width: 100vw ;
+}
+
+#content textarea, #content iframe {
+    filter: invert(100%) ;
+}
+
+#show-result, #header, #actions, #actions .actionCont .actionItem {
+    display: contents ;
+}
+
+#sidebar, .adsbygoogle, .window_label, #branding, #actions ul:last-child, .actionCont:first-child, .actionCont:nth-child(2), #content > p, #google_osd_static_frame_7083628127061 {
+    display: none ;
+}
+
+.CodeMirror {
+    border: 0 ;
+}
+
+body {
+    background-color: #000 ;
+    filter: invert(100%) ;
+    height: 100vh ;
+}
+
+fieldset.column.left {
+    left: 0 ;
+}
+
+fieldset.column.right {
+    right: 0 ;
+}
+
