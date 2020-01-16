@@ -1,7 +1,7 @@
 
 # custom_css_styles
 ## DESCRIPTION
-This repository is a place for people to share CSS code they have written for websites they use oftenly. This CSS may add dark mode, remove excess features or do other UX improvements.
+This repository is a place for people to share CSS code they have written for websites they use oftenly. This CSS may add dark mode, remove excess features or do other UI improvements.
 
 ## EXAMPLES
 ![Facebook](https://scontent.fiev13-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/67243782_483001412274109_5736729422891843584_n.png?_nc_cat=104&_nc_oc=AQmH76f_UyWVKX2sFuCZbPPJLduwd215lMPAUjR7hDNAQExzMNQloKlOFDPB8msMGX8&_nc_ht=scontent.fiev13-1.fna&oh=2ad1fda7902552daf8f04bd8dd85c125&oe=5DE0C3E5)
